@@ -77,6 +77,10 @@
         <section>
             <h2>Certifications</h2>
             <ul>
+                <li>AI for Beginners Certificate  - Certificate of Completion</li>
+                <li>Inventory Management  - Certificate of Completion</li>
+                <li>Effective Leadership  - Certificate of Completion</li>
+                <li>Introduction to Cyber Security – CISCO Networking Academy Certificate of Completion</li>
                 <li>District Health Information Software - Certificate of Completion</li>
                 <li>ICH Good Clinical Practice - Certificate of Completion</li>
                 <li>Peer Educator Training Course - Certificate of Completion</li>
