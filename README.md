@@ -46,13 +46,15 @@
 </head>
 <body>
     <header>
-        <img src="Green Card.jpg" alt="Kevin Ochieng Obongo" class="profile-pic">
-        <div>
-            <h1>Kevin Ochieng Obongo</h1>
-            <p>ICT Assistant | Technical Support | Data Management</p>
-        </div>
-    </header>
-    
+    <img src="https://raw.githubusercontent.com/OBONGO93/Kevin-Ochieng-Portfolio/main/Green%20Card.jpg" 
+         alt="Kevin Ochieng Obongo" 
+         class="profile-pic">
+    <div>
+        <h1>Kevin Ochieng Obongo</h1>
+        <p>ICT Assistant | Technical Support | Data Management</p>
+    </div>
+</header>
+   
     <div class="container">
         <section>
             <h2>About Me</h2>
